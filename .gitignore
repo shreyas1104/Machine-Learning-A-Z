@@ -1,0 +1,5 @@
+#ignoring the dataset for CNN
+**/dataset/
+
+#ignoring checkpoint files
+**/.ipynb_checkpoints/*.ipynb
